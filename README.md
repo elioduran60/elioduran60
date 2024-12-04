@@ -2,14 +2,12 @@
 
 Me distingo por mi constante interés en las tecnologías de programación, análisis y visualización de datos, Machine Leaning y en IIoT, así como por mis altas habilidades en la implementación del Mantenimiento Industrial. 
 
-Luego de mas de tres décadas en Mantenimeinto y Proyectos de Automatizacion Industrial, estudié Ing. Informática y un Diplomado en Data Scientist. Continúo perfeccionando mis conocimientos mediante la participación en seminarios y cursos prácticos. Actualmente culminé (2024) el BootCamp Full StacK Java (480 hrs).
+Luego de mas de tres décadas en Mantenimeinto y Proyectos de Automatizacion Industrial, estudié Ing. Informática y un Diplomado en Data Scientist. Continúo perfeccionando mis conocimientos mediante en seminarios y cursos prácticos.
 
-## Experiencia en la Industrial Oil & Gas
+##  Experiencia en la Industrial Oil & Gas
 Más de 35 años en la industria Oil & Gas, en roles en instalación y mantenimiento hasta Supervisión y Asistencia en proyectos de Automatización Industrial, Mtto Mayor (Overhaul) a Hornos Indt. Gas, PLC´s, Tableros Eléctricos Industriales/CCM (BT/MT), SPAT. Mi certificación con el Infrared Training Center en Termografía Industrial (Nivel I/II) respalda mi experiencia en la detección de problemas en sistemas electromecánicos.
 
 ## 🎓 Experiencia como Preparador/Relator/Auxiliar universitario:
-
-**-PREPARADOR E-CAMP (apoyo estudiantil) en el Curso Intensivo (Bootcamp) de Desarrollador Full Stack JAVA + Framework Spring** (Edutecno - Proyecto de Talento Digital | SENCE Chile)
 
 **-Preparadorías en Cálculos/Estádisticas/Lógica y Fundamentos de Programación** (UNELLEZ Campus Universitario Barinas  | Venezuela)
 
